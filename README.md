@@ -1,4 +1,4 @@
-# Loan Pro Calculator
+# Calculator Pro Backend
 A backend with Spring Boot with Login and Registration that supports JWT with Http Cookie or Authorization Header.
 Calculator capabilities included in this backend service:
 
